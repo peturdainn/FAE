@@ -1,0 +1,2 @@
+Find and Execute is provided as is, no warranties.
+Licensed under GPL2
