@@ -6,7 +6,7 @@
  *
  * Copyright (C) 2007 Peter D'Hoye
  *
- * All files in this archive are subject to the GNU General Public License.
+ * All files in this archive are MIT licensed
  *
  * This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
  * KIND, either express or implied.
@@ -257,7 +257,7 @@ int main(int argc, char* argv[])
 		printf("\n\r           #n = filename without extension");
 		printf("\n\r           #e = extension");
 		printf("\n\r           #q = quotes");
-		printf("\n\rThis software is GPL - visit http://sourceforge.net/projects/fae/");
+		printf("\n\rThis software is MIT - visit https://github.com/peturdainn/FAE");
         printf("\n\r\n\rExample commandline: (renames all BMP files to *_old.bmp)");
         printf("\n\rFAE *.bmp \"move #q#F#q #q#p\#f_old.bmp#q\"");
 		return -1;
